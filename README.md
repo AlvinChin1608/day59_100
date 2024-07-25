@@ -22,12 +22,13 @@ This project is a simple blog post website built using Flask, HTML, CSS, and Jav
 │   └── assets
 │       └── favicon.ico
 ├── templates
+│   ├── header.html
 │   ├── layout.html
 │   ├── post.html
 │   ├── about.html
 │   ├── contact.html
 │   └── index.html
-├── app.py
+├── main.py
 └── README.md
 ```
 - static/css/styles.css: Contains custom CSS styles.
